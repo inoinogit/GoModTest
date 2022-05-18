@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func superHello() (string, error) {
+func SuperHello() (string, error) {
 
 	return fmt.Sprintf("Hello World !!!!!!!"), nil
 }
